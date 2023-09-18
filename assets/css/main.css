@@ -1213,7 +1213,7 @@ input[type="radio"] + label:before {
 /* Image */
 .image {
   border-radius: 0.375em;
-  border: 0;
+  border: 1;
   display: inline-block;
   position: relative; }
   .image img {
@@ -1234,9 +1234,9 @@ input[type="radio"] + label:before {
   .image.fit {
     display: block;
     margin: 0 0 2em 0;
-    width: 50%; }
+    width: 100%; }
     .image.fit img {
-      width: 50%; }
+      width: 100%; }
   .image.main {
     display: block;
     margin: 0 0 3em 0;
