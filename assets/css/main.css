@@ -2139,16 +2139,16 @@ button,
     margin: 0 0 0 4em;
     width: 50%; }
     #banner .image img {
-      height: 100%;
+      height: 2.5in;
       -moz-object-fit: cover;
       -webkit-object-fit: cover;
       -ms-object-fit: cover;
-      object-fit: cover;
+      object-fit: fit;
       -moz-object-position: center;
       -webkit-object-position: center;
       -ms-object-position: center;
       object-position: center;
-      width: 100%; }
+      width: 2in; }
   @media screen and (orientation: portrait) {
     #banner {
       -moz-flex-direction: column-reverse;
