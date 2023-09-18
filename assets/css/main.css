@@ -2139,11 +2139,11 @@ button,
     margin: 0 0 0 4em;
     width: 50%; }
     #banner .image img {
-      min-height: 3in;
-      -moz-object-fit: fit;
-      -webkit-object-fit: fit;
-      -ms-object-fit: fit;
-      object-fit: fit;
+      height: 3in;
+      -moz-object-fit: cover;
+      -webkit-object-fit: cover;
+      -ms-object-fit: cover;
+      object-fit: cover;
       -moz-object-position: center;
       -webkit-object-position: center;
       -ms-object-position: center;
