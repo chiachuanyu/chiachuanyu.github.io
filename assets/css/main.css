@@ -1234,13 +1234,13 @@ input[type="radio"] + label:before {
   .image.fit {
     display: block;
     margin: 0 0 2em 0;
-    width: 100%; }
+    width: 50%; }
     .image.fit img {
-      width: 100%; }
+      width: 50%; }
   .image.main {
     display: block;
     margin: 0 0 3em 0;
-    width: 10%; }
+    width: 30%; }
     .image.main img {
       width: 100%; }
 
