@@ -2140,15 +2140,15 @@ button,
     width: 50%; }
     #banner .image img {
       height: 2in;
-      -moz-object-fit: fill;
-      -webkit-object-fit: fill;
-      -ms-object-fit: fill;
-      object-fit: fill;
+      -moz-object-fit: scale-down;
+      -webkit-object-fit: scale-down;
+      -ms-object-fit: scale-down;
+      object-fit: scale-down;
       -moz-object-position: center;
       -webkit-object-position: center;
       -ms-object-position: center;
       object-position: center;
-      width: 1.7in; }
+      width: 1.6in; }
   @media screen and (orientation: portrait) {
     #banner {
       -moz-flex-direction: column-reverse;
