@@ -2140,10 +2140,10 @@ button,
     width: 50%; }
     #banner .image img {
       height: 2in;
-      -moz-object-fit: scale-down;
-      -webkit-object-fit: scale-down;
-      -ms-object-fit: scale-down;
-      object-fit: scale-down;
+      -moz-object-fit: fill;
+      -webkit-object-fit: fill;
+      -ms-object-fit: fill;
+      object-fit: fill;
       -moz-object-position: center;
       -webkit-object-position: center;
       -ms-object-position: center;
